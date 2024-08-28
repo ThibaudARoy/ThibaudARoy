@@ -1,6 +1,6 @@
 ## Hi, I'm Thibaud
-💼 I am a Machine Learning Engineer at Antimetal, working on infra automation and cost optimization.
-🏗 Experience with full-stack, distributed systems, and MLOps at startups to enterprise scale
+💼 I am a Machine Learning Engineer at Antimetal, working on infra automation and cost optimization  
+🏗 Experience with full-stack, distributed systems, and MLOps at startups to enterprise scale  
 💬 You can find additional information about me at: [thibaudroy.com](https://thibaudroy.com/)
 <!--
 **ThibaudARoy/ThibaudARoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
